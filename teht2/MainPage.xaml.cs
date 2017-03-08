@@ -63,7 +63,7 @@ namespace teht2
 
             markkaText.Text = newValue.ToString("0.00");
 
-           
+            
 
         }
 
